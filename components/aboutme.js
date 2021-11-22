@@ -2,7 +2,7 @@ import React from 'react';
 
 function AboutMe () {
     return (
-        <div className="flex flex-row flex-wrap h-full w-screen bg-indigo-900 justify-center p-10">
+        <div className="flex flex-row flex-wrap h-full w-screen bg-indigo-900 justify-center p-6">
             <div className="flex font-montserrat p-2 m-5 max-w-3xl">
                 <div className="flex flex-col flex-start p-2">
                     <h1 className="font-bold text-3xl text-transparent bg-transparent bg-clip-text bg-gradient-to-br from-indigo-300 to-pink-300 uppercase font-monsterrat p-2">Who Am I?</h1>
